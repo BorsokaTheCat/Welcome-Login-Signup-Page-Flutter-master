@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+MERGED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+MERGED from [:flutter_vibrate] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_vibrate\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:audio_service] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\audio_service\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:flutter_isolate] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_isolate\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:just_audio] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\just_audio\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_session] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\audio_session\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\ebe41fb46a59e7079d2e9c60fe69b873\media2-session-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\b4a3a22f2fd33c2c083d6c3b27539a51\media2-common-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.0-alpha03] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\859b18280b7bd722809935488c9ff361\media-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\65fd00bb7753452a02d198555191de3e\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3b8d51340ed8cd51b512abfd2b1c1ce2\threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\9f268c9b2dc22bb998b4454f2a639f38\exoplayer-dash-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\a56058beab4d4d9f1fb41830b803ff4b\exoplayer-hls-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\459d94380b892a7f4bec311f33adaee3\exoplayer-smoothstreaming-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\81e143c845019e01e8397457ce110c03\exoplayer-core-2.13.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\fe24e760f4728ff71f2cdc1dfde71451\jetified-exoplayer-extractor-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\00b885afbee4b5dfcc9eda2428a3d2b5\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:1-54:12
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:10:5-65
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:13:22-74
+application
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:14:5-53:19
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\65fd00bb7753452a02d198555191de3e\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\65fd00bb7753452a02d198555191de3e\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3b8d51340ed8cd51b512abfd2b1c1ce2\threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3b8d51340ed8cd51b512abfd2b1c1ce2\threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\65fd00bb7753452a02d198555191de3e\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:16:9-37
+	android:icon
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:17:9-43
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:15:9-57
+activity#com.example.flutter_auth.MainActivity
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:18:9-29:20
+	android:launchMode
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:22:13-163
+	android:theme
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:27:27-74
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:30:9-35:20
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:30:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:32:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:33:17-83
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:33:25-81
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:36:9-106
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:36:19-103
+meta-data#flutterEmbedding
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:39:9-41:33
+	android:value
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:40:13-44
+service#com.ryanheise.audioservice.AudioService
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:42:9-46:19
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:42:18-72
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:43:13-45:29
+action#android.media.browse.MediaBrowserService
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:44:17-83
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:44:25-80
+receiver#com.ryanheise.audioservice.MediaButtonReceiver
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:48:19-80
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:49:13-51:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:50:25-74
+uses-sdk
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_vibrate] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_vibrate\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_vibrate] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_vibrate\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:audio_service] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\audio_service\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\audio_service\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_isolate] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_isolate\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_isolate] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_isolate\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\just_audio\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\just_audio\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\audio_session\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\audio_session\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\ebe41fb46a59e7079d2e9c60fe69b873\media2-session-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\ebe41fb46a59e7079d2e9c60fe69b873\media2-session-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\b4a3a22f2fd33c2c083d6c3b27539a51\media2-common-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\b4a3a22f2fd33c2c083d6c3b27539a51\media2-common-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\859b18280b7bd722809935488c9ff361\media-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\859b18280b7bd722809935488c9ff361\media-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\65fd00bb7753452a02d198555191de3e\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\65fd00bb7753452a02d198555191de3e\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3b8d51340ed8cd51b512abfd2b1c1ce2\threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3b8d51340ed8cd51b512abfd2b1c1ce2\threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\9f268c9b2dc22bb998b4454f2a639f38\exoplayer-dash-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\9f268c9b2dc22bb998b4454f2a639f38\exoplayer-dash-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\a56058beab4d4d9f1fb41830b803ff4b\exoplayer-hls-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\a56058beab4d4d9f1fb41830b803ff4b\exoplayer-hls-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\459d94380b892a7f4bec311f33adaee3\exoplayer-smoothstreaming-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\459d94380b892a7f4bec311f33adaee3\exoplayer-smoothstreaming-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\81e143c845019e01e8397457ce110c03\exoplayer-core-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\81e143c845019e01e8397457ce110c03\exoplayer-core-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\fe24e760f4728ff71f2cdc1dfde71451\jetified-exoplayer-extractor-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\fe24e760f4728ff71f2cdc1dfde71451\jetified-exoplayer-extractor-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\00b885afbee4b5dfcc9eda2428a3d2b5\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\00b885afbee4b5dfcc9eda2428a3d2b5\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:25-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\81e143c845019e01e8397457ce110c03\exoplayer-core-2.13.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\00b885afbee4b5dfcc9eda2428a3d2b5\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\00b885afbee4b5dfcc9eda2428a3d2b5\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\keszt\.gradle\caches\transforms-2\files-2.1\81e143c845019e01e8397457ce110c03\exoplayer-core-2.13.1\AndroidManifest.xml:24:22-76
