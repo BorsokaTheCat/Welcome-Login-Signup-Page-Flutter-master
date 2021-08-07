@@ -49,8 +49,8 @@
 32        android:debuggable="true"
 33        android:icon="@mipmap/ic_launcher"
 33-->D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:17:9-43
-34        android:label="flutter_auth" >
-34-->D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:16:9-37
+34        android:label="help" >
+34-->D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:16:9-29
 35        <activity
 35-->D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:18:9-29:20
 36            android:name="com.example.flutter_auth.MainActivity"
@@ -140,6 +140,15 @@
 78-->D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\android\app\src\main\AndroidManifest.xml:50:25-74
 79            </intent-filter>
 80        </receiver>
-81    </application>
-82
-83</manifest>
+81
+82        <activity
+82-->[:url_launcher] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+83            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+83-->[:url_launcher] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+84            android:exported="false"
+84-->[:url_launcher] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+85            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+85-->[:url_launcher] D:\kodok\drink\Welcome-Login-Signup-Page-Flutter-master\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+86    </application>
+87
+88</manifest>

@@ -1,8 +1,10 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_auth/Screens/CallAFriend/call_a_friend_page.dart';
 import 'package:flutter_auth/Screens/StopWatch/components/background.dart';
 import 'package:flutter_auth/components/rounded_button.dart';
+import 'package:flutter_auth/model/bean/friend.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:stop_watch_timer/stop_watch_timer.dart';
 
@@ -11,6 +13,7 @@ import 'package:flutter_vibrate/flutter_vibrate.dart';
 import 'components/timer_buttons.dart';
 import 'package:audio_service/audio_service.dart';
 import 'package:just_audio/just_audio.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class StopWatchPage extends StatefulWidget {
   const StopWatchPage({
@@ -20,13 +23,13 @@ class StopWatchPage extends StatefulWidget {
   @override
   _StopWatchPageState createState() => _StopWatchPageState();
 }
+
 final _isHours = true;
 AudioPlayer player;
 
 class _StopWatchPageState extends State<StopWatchPage> {
   final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
       FlutterLocalNotificationsPlugin();
-
 
   final StopWatchTimer _stopWatchTimer = StopWatchTimer(
     mode: StopWatchMode.countUp,
@@ -54,6 +57,34 @@ class _StopWatchPageState extends State<StopWatchPage> {
     sendDrinkNotification();
     _stopWatchTimer.records.listen((value) => print('records $value'));
     init();
+
+
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
+    friendList.add(new Friend("Eszter", "06203602610"));
+    friendList.add(new Friend("Marci", "06203602610"));
 
     player = AudioPlayer();
 
@@ -128,16 +159,14 @@ class _StopWatchPageState extends State<StopWatchPage> {
                   RoundedButton(
                     text: "CALL A FRIEND",
                     press: () async {
-                      !_canVibrate ? null : Vibrate.vibrateWithPauses(pauses);
-
-                      /*Navigator.push(
+                      Navigator.push(
                         context,
                         MaterialPageRoute(
                           builder: (context) {
-                            return SecoundPage();
+                            return CallAFriendPage();
                           },
                         ),
-                      );*/
+                      );
                     },
                   ),
                   RoundedButton(
@@ -166,12 +195,12 @@ class _StopWatchPageState extends State<StopWatchPage> {
                       );*/
                     },
                   ),
-                  ElevatedButton(child: Text("Start"), onPressed: () async {
-                    await player.setAsset('assets/sounds/first.m4a');
-                    player.play();
-                  },),
-                  ElevatedButton(child: Text("Stop"), onPressed: stop),
-                  /*Container(
+                  ElevatedButton(
+                    child: Text("call"),
+                    onPressed: () => launch("tel://+36203602610"),
+                  ),
+                  /*ElevatedButton(child: Text("Stop"), onPressed: stop),
+                  Container(
                     //color: Colors.red,
                     height: size.height*0.4,
                     width: size.width,
@@ -269,8 +298,6 @@ class _StopWatchPageState extends State<StopWatchPage> {
 
   stop() => AudioService.stop();
 
-
-
   Widget drawTimerButtons(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Row(
@@ -313,14 +340,12 @@ class _StopWatchPageState extends State<StopWatchPage> {
     _stopWatchTimer.minuteTime.listen((value) => drinkWaterReminder(value));
   }
 
-  drinkWaterReminder(int value) async {
+  drinkWaterReminder(int value) {
     if (value % 2 /*60*/ == 0 && value != 0) {
       print('minuteTime2 $value');
       sendNotification("Hi Bence!", "It's time to drink some water!");
+      playSound();
 
-
-      await player.setAsset('assets/sounds/first.m4a');
-      player.play();
       //doesn't work in the background :(
       //!_canVibrate ? null : Vibrate.vibrateWithPauses(pauses);
     }
@@ -347,6 +372,11 @@ class _StopWatchPageState extends State<StopWatchPage> {
 
     await flutterLocalNotificationsPlugin
         .show(0, title, body, platformChannelSpecifics, payload: 'item x');
+  }
+
+  Future<void> playSound() async {
+    await player.setAsset('assets/sounds/first.m4a');
+    player.play();
   }
 }
 
